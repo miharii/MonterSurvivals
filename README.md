@@ -13,11 +13,10 @@ A Vampire Survivors inspired mobile game built from scratch in Unity.
 - Mobile and PC input support
 - Enemy spawn chance/rate keyframe system
 - ScriptableObjects for straightforward character and level design
-- English/简体中文/繁體中文 localization
 
 ## How to Play
 1. Download this repository
-2. Open in Unity 2021.3 or later
+2. Open in Unity 6000.2.1f1 or later
 3. Proceed to the `Main` scene in the `Assets/Scenes/Game` folder
 4. Press play
 
