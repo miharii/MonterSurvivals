@@ -15,11 +15,11 @@ MonoBehaviour:
   name: Blue
   owned: 1
   cost: 999
-  hp: 100
+  hp: 200
   recovery: 0
   armor: 0
   movespeed: 1.15
-  luck: 1
+  luck: 2
   acceleration: 50
   walkSpriteSequence:
   - {fileID: -1159827789, guid: 5c133df4e168243918889aa50bab75fb, type: 3}
@@ -29,3 +29,4 @@ MonoBehaviour:
   walkFrameTime: 0.1
   startingAbilities:
   - {fileID: 7378740072262091319, guid: 6bf0c7ded38f2427f8fbf34693543d88, type: 3}
+  - {fileID: 7378740072262091319, guid: 68faf193e4e8d451aa2229ed6155917b, type: 3}

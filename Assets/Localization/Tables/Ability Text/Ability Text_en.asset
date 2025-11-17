@@ -31,7 +31,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 847437094912
-    m_Localized: Boomerang attack
+    m_Localized: Lightsword attack
     m_Metadata:
       m_Items: []
   - m_Id: 1050382688256
@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1150563639296
-    m_Localized: Boomerang attack
+    m_Localized: Machete attack
     m_Metadata:
       m_Items: []
   - m_Id: 1425428963328

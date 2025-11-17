@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Vietnamese (vi)
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-String-Tables-Vietnamese (vi)
+  m_GUID: f07743a38b25df741af1be0a05bb3489
+  m_SerializeEntries:
+  - m_GUID: 30e8e63516d33d64e83af976afb36206
+    m_Address: Upgradeable Values_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3304e5577a65f5c41bd79f9fe0eb51d0
+    m_Address: Ability Text_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7112b39b622269940aa252d4f1dd5f21
+    m_Address: Game Text_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8beee89da40ffea40b1cb241e35fe866
+    m_Address: Character Text_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edef621aab710c846999dfb3ec9135b9
+    m_Address: UI Text_vi
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-vi
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 7e3d66dc8cb9f42809017db168ce4406, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 373f84409a53649418a2809190def5e3, type: 2}
+    - {fileID: 11400000, guid: 807a3b839ae488c4bb2fe2f5017cd4ca, type: 2}

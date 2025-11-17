@@ -1,0 +1,5 @@
+# ninja log v5
+1	604	7778122761232057	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	496f1a7680747158
+606	762	7778122762695039	C:/Users/admin/Downloads/VampireSurvivorsClone-main/VampireSurvivorsClone-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2a311y3e/obj/arm64-v8a/libswappywrapper.so	bfe2af8b1c06fdee
+8	796	7789071587848184	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	496f1a7680747158
+797	1100	7789071590774460	C:/Users/admin/Downloads/VampireSurvivorsClone-main/VampireSurvivorsClone-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2a311y3e/obj/arm64-v8a/libswappywrapper.so	bfe2af8b1c06fdee

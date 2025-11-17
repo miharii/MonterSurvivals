@@ -19,7 +19,7 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 123949015040
-    m_Localized: Vampire Survivors Clone
+    m_Localized: HunterSurvival
     m_Metadata:
       m_Items: []
   - m_Id: 1437881851904
@@ -27,7 +27,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5889980358656
-    m_Localized: Shop
+    m_Localized: Collection
     m_Metadata:
       m_Items: []
   - m_Id: 6373831073792
@@ -35,7 +35,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 334637481058304
-    m_Localized: Character Selection
+    m_Localized: achivement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 177715857825914880
+    m_Localized: Achievement
     m_Metadata:
       m_Items: []
   references:
